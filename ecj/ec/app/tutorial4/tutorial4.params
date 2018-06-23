@@ -1,0 +1,67 @@
+# Copyright 2006 by Sean Luke and George Mason University
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+
+parent.0 = ../../gp/koza/koza.params
+
+# the next four items are already defined in koza.params, but we
+# put them here to be clear.
+
+# We have one function set, of class GPFunctionSet
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+# We'll call the function set "f0".
+gp.fs.0.name = f0
+
+# We have five functions in the function set.  They are:
+gp.fs.0.size = 21
+gp.fs.0.func.0 = ec.app.tutorial4.Add
+gp.fs.0.func.0.nc = nc2
+gp.fs.0.func.1 = ec.app.tutorial4.Mul
+gp.fs.0.func.1.nc = nc2
+gp.fs.0.func.2 = ec.app.tutorial4.Sub
+gp.fs.0.func.2.nc = nc2
+gp.fs.0.func.3 = ec.app.tutorial4.Div
+gp.fs.0.func.3.nc = nc2
+gp.fs.0.func.4 = ec.app.tutorial4.Sin
+gp.fs.0.func.4.nc = nc1
+gp.fs.0.func.5 = ec.app.tutorial4.Cos
+gp.fs.0.func.5.nc = nc1
+gp.fs.0.func.6 = ec.app.tutorial4.Exp
+gp.fs.0.func.6.nc = nc1
+gp.fs.0.func.7 = ec.app.tutorial4.Log
+gp.fs.0.func.7.nc = nc1
+gp.fs.0.func.8 = ec.app.tutorial4.Square
+gp.fs.0.func.8.nc = nc1
+gp.fs.0.func.9 = ec.app.tutorial4.Cube
+gp.fs.0.func.9.nc = nc1
+gp.fs.0.func.10 = ec.app.tutorial4.Sqrt
+gp.fs.0.func.10.nc = nc1
+gp.fs.0.func.11 = ec.app.tutorial4.Abs
+gp.fs.0.func.11.nc = nc1
+
+gp.fs.0.func.12 = ec.app.tutorial4.X1
+gp.fs.0.func.12.nc = nc0
+gp.fs.0.func.13 = ec.app.tutorial4.X2
+gp.fs.0.func.13.nc = nc0
+gp.fs.0.func.14 = ec.app.tutorial4.X3
+gp.fs.0.func.14.nc = nc0
+gp.fs.0.func.15 = ec.app.tutorial4.X4
+gp.fs.0.func.15.nc = nc0
+gp.fs.0.func.16 = ec.app.tutorial4.X5
+gp.fs.0.func.16.nc = nc0
+gp.fs.0.func.17 = ec.app.tutorial4.X6
+gp.fs.0.func.17.nc = nc0
+gp.fs.0.func.18 = ec.app.tutorial4.X7
+gp.fs.0.func.18.nc = nc0
+gp.fs.0.func.19 = ec.app.tutorial4.X8
+gp.fs.0.func.19.nc = nc0
+gp.fs.0.func.20 = ec.app.tutorial4.X9
+gp.fs.0.func.20.nc = nc0
+
+
+eval.problem = ec.app.tutorial4.MultiValuedRegression
+eval.problem.data = ec.app.tutorial4.DoubleData
+pop.subpop.0.species.fitness = ec.simple.SimpleFitness
+
+

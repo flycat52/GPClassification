@@ -1,0 +1,936 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8588957055214724
+Tree 0:
+ (rlog (* (sin x4) (* x9 x2)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.8752556237218814
+Tree 0:
+ (- (abs (- x2 x2)) (cos (sqrt x6)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9100204498977505
+Tree 0:
+ (- (rlog x2) (cos (square (cos x9))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.934560327198364
+Tree 0:
+ (rlog (- (square (rlog x2)) (sin x6)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9386503067484663
+Tree 0:
+ (rlog (- (square (* (rlog x2) (+ (- x6 x5)
+     x9))) (sin (exp (rlog (square (cos (/ (rlog
+     (sin (abs x4))) (sqrt x7)))))))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9386503067484663
+Tree 0:
+ (rlog (- (square (* (rlog x2) (+ (- x6 x5)
+     x9))) (sin (exp (rlog (square x9))))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9427402862985685
+Tree 0:
+ (rlog (- (square (* (rlog x2) (+ (- x6 (sqrt
+     x9)) x9))) (sin (exp (square (cos x8))))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9468302658486708
+Tree 0:
+ (- (* (+ (+ (square (sin (/ (sin x2) (exp
+     x5)))) (- (- (rlog x2) (+ x3 x8)) (/ (rlog
+     x6) (- x2 x4)))) (cube (abs (* x6 x2))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9468302658486708
+Tree 0:
+ (- (* (+ (+ (square (sin (/ (sin x2) (exp
+     x5)))) (- (- (rlog x2) (+ x3 x8)) (/ (rlog
+     x6) (- x2 x4)))) (cube (abs (* x6 x2))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9550102249488752
+Tree 0:
+ (rlog (- (square (* (square (rlog x2)) (+
+     (- x6 x2) x9))) (sin (exp (square (cos x8))))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9550102249488752
+Tree 0:
+ (rlog (- (square (* (square (rlog x2)) (+
+     (- x6 x2) x9))) (sin (exp (square (sin x7))))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9550102249488752
+Tree 0:
+ (rlog (- (square (* (rlog x2) (+ (/ x6 (rlog
+     (- (square (rlog x2)) (sin x6)))) x9))) (sin
+     (sqrt x7))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9550102249488752
+Tree 0:
+ (rlog (- (square (* (rlog x2) (+ (/ x6 (rlog
+     (- (square (rlog x2)) (sin x6)))) x9))) (sin
+     (sqrt x7))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9550102249488752
+Tree 0:
+ (rlog (- (square (* (square (rlog x2)) (+
+     (- x6 x2) x9))) (sin (exp (square (sin (-
+     (square (cos x9)) (- (sqrt (square x5)) (rlog
+     (sin (sqrt x5)))))))))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9550102249488752
+Tree 0:
+ (rlog (- (square (* (rlog x2) (- (square
+     (* (* (square (* (rlog (* (rlog x2) x6))
+         (rlog x2))) x6) (- (square (cube (* (* (rlog
+         x2) x6) (cos (+ x9 (- x7 x5)))))) (sin (exp
+         (rlog (- (* x9 (* (rlog x2) (+ (- x6 x5)
+             x2))) (+ x9 x4)))))))) (sin (exp (rlog (-
+     x6 (sqrt x9)))))))) (sin (exp (+ (- x6 x5)
+     x2)))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9591002044989775
+Tree 0:
+ (rlog (- (square (* (rlog x2) (- (square
+     (* (rlog x2) (- (square (* (* (rlog x2) x6)
+         (cos x5))) (sin (exp (sin (exp x6)))))))
+     (sin x3)))) (sin (exp (sin (exp (* (sin (-
+     (cos x5) (sin (rlog x2)))) (exp (rlog (square
+     (cos x7)))))))))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9591002044989775
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog x6) (- (- (square (cos (cube
+     (square (exp (rlog x2)))))) (rlog x6)) x4))))
+     (cube (- (square (* (rlog x2) (- (square
+         (* (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (exp (- x7 x5)))) (+ (- x6 (square (*
+             (rlog x2) x6))) x9))) (sin (exp (rlog (-
+         x6 (sqrt x9)))))))) (sin (exp (+ (- x6 x5)
+         (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9652351738241309
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (* (rlog x2) x6)) (rlog x6)) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (* (rlog x2) x6) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (sin (exp (rlog
+         (- x6 (sqrt x9)))))))) (sin (exp (+ (- x6
+         x5) (/ (abs x5) x7))))))) (cube (/ x4 (exp
+     (exp (sin (sqrt x5))))))) (cos (cube (square
+     (exp (- x8 x9))))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9652351738241309
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (cos x5)) (- (- (square
+     (* (rlog x2) x6)) (rlog x6)) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (* (rlog x2) x6) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (sin (exp (rlog
+         (- x6 (sqrt x9)))))))) (sin (exp (+ (- x6
+         x5) (/ (abs x5) x7))))))) (cube (/ x4 (exp
+     (exp (sin (sqrt x5))))))) (cos (cube (square
+     (exp (- x8 x9))))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9652351738241309
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (sqrt x7))) (- (- (square
+     (* (rlog x2) x6)) (rlog x6)) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (* (rlog x2) x6) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (sin (exp (rlog
+         (- x6 (sqrt x9)))))))) (sin (exp (+ (- x6
+         (rlog x2)) (/ (abs x5) x7))))))) (cube (/
+     x4 (exp (exp (sin (sqrt x5))))))) (cos (cube
+     (square (exp (- x8 x9))))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9652351738241309
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (- x6 x2) (- (- (square (exp (rlog
+     (- (rlog x2) (exp (+ (- x6 x5) (/ (abs x5)
+         x7))))))) (rlog x6)) x4)))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (sin (exp (rlog (-
+         x6 (sqrt x9)))))))) (sin (exp (+ (- x6 x5)
+     (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9652351738241309
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (- x6 x2) (- (- (square (square
+     (rlog (cos (sqrt x7))))) (rlog x6)) x4))))
+     (cube (- (square (* (rlog x2) (- (square
+         (* (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (exp (- x7 x5)))) (- (square (rlog x3))
+             (sin (exp (sqrt (rlog x1))))))) (sin (exp
+         (rlog (- x6 (sqrt x9)))))))) (sin (exp (+
+         (- x6 x5) (/ (abs x5) x7))))))) (cube (/
+     x4 (exp (exp (sin (sqrt x5))))))) (cos (cube
+     (square (exp (- x8 x9))))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9652351738241309
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (abs
+     x5)) (/ (- x6 x2) (- (- (square (* (rlog
+     x2) x6)) (rlog x6)) x4)))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (sin (exp (rlog (-
+         x6 (sqrt x9)))))))) (sin (exp (rlog x2))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.967280163599182
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (* (square (exp (- x8 x9))) x6)) (- (square
+     (* (rlog x2) x6)) (rlog x6))) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (- x6 (sqrt x4)) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (exp (-
+         x7 x5))))))) (sin (exp (+ (- x6 x5) (/ (abs
+         x5) x7))))))) (cube (/ x4 (exp (exp (sin
+     (sqrt x5))))))) (cos (cube (square (exp (-
+     x8 x9))))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.967280163599182
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (* (square (exp (- x8 x9))) x6)) (- (square
+     (* (rlog x2) x6)) (rlog x6))) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (- x6 (sqrt x4)) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (exp (-
+         x7 x5))))))) (sin (exp (+ (- x6 x5) (/ (abs
+         x5) x7))))))) (cube (/ x4 (exp (exp (sin
+     (sqrt x5))))))) (cos (cube (square (exp (-
+     x8 x9))))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.967280163599182
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog (abs
+     x5)) (+ x3 x8)) (/ (- x6 x2) (- (- (square
+     (square (rlog (cos (sqrt x7))))) (rlog x6))
+     x4)))) (cube (- (square (* (rlog x2) (- (square
+     (* (- (square (* (* (rlog x2) x6) (cos x5)))
+         (sin (exp (- x7 x5)))) (- (square (rlog x3))
+         (sin (exp (sqrt (rlog x1))))))) (rlog (abs
+     (* x6 x2)))))) (sin (exp (+ (- x6 x5) (/
+     (rlog (sin (exp (rlog (- x6 x6))))) (- (-
+     (* (rlog x2) x6) (rlog x6)) x4)))))))) (cube
+     (/ x4 (exp (exp (sin (sqrt x5))))))) (cos
+     (cube (square (exp (- x8 x9))))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (* (square (exp (- x8 x9))) x6)) (- (square
+     (* (rlog x2) x6)) (rlog x6))) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (- x6 (sqrt x4)) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (* (rlog
+         (rlog x2)) x3)))))) (sin (exp (+ (- x6 x5)
+         (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (* (square (exp (- x8 x9))) x6)) (- (square
+     (* (rlog x2) x6)) (rlog x6))) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (- x6 (sqrt x4)) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (* (rlog
+         (rlog x2)) x3)))))) (sin (exp (+ (- x6 x5)
+         (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (sin (sqrt x5))) (- (- (square
+     (* (rlog x1) x6)) (- (square (* (rlog x2)
+     x6)) (rlog x6))) x4)))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (- x6 (sqrt x4)) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (- (square (* (* (rlog
+         x2) x6) (cos x5))) (sin (rlog x2)))))) (sin
+     (exp (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (rlog x3)) (- (- (square
+     (* (rlog x1) x6)) (- (square (* (rlog x2)
+     x6)) (rlog x6))) x4)))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (- x6 (sqrt x4)) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (- (square (* (* (rlog
+         x2) x6) (cos x5))) (sin (rlog x2)))))) (sin
+     (exp (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (rlog x2)) (- (exp (rlog (- x6 (sqrt x9))))
+     (- (square (exp (rlog (- x6 (sqrt x9)))))
+         (rlog x6)))) x4)))) (cube (- (square (* (rlog
+     x2) (- (square (* (- (square (* (- x6 (sqrt
+     x4)) (cos x5))) (sin (exp (- x7 x5)))) (-
+     (square (rlog x3)) (sin (exp (sqrt (rlog
+     x1))))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (* (rlog (rlog x2)) x3))))))
+     (sin (exp (+ (- x6 x5) (/ (abs x5) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (- (square (* (rlog x2) x6)) (rlog
+     x6)) (- (- (square (* (square (exp (- x8
+     x9))) x6)) (- (square (* (rlog x2) x6)) (rlog
+     x6))) (* (rlog x2) x6))))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (- x6 (sqrt x4)) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (- (square (* (* (rlog
+         x2) x6) (cos x5))) (sin (* (rlog (rlog x2))
+         x3)))))) (sin (exp (+ (- x6 x5) (/ (abs x5)
+     x7))))))) (cube (/ x4 (exp (exp (sin (sqrt
+     x5))))))) (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (sin (sqrt x5))) (cos (cube
+     (square (exp (- x8 x9)))))))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (- x6 (sqrt x4)) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (- (square (* (* (rlog
+         x2) x6) (cos x5))) (sin (rlog x2)))))) (sin
+     (exp (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (* x6 x2))) (- (- (square
+     (rlog x2)) (- (exp (rlog (- x6 (sqrt x9))))
+     (- (square (exp (rlog (- x6 (sqrt x9)))))
+         (rlog x6)))) x4)))) (cube (- (square (* (rlog
+     x2) (- (square (* (- (square (* (- x6 (sqrt
+     x4)) (cos x5))) (sin (exp (- x7 x5)))) (-
+     (square (rlog x3)) (sin (exp (sqrt (rlog
+     x1))))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (* (rlog (rlog x2)) x3))))))
+     (sin (exp (+ (- x6 x5) (/ (abs x5) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))) (- (- (square
+     (* (square (exp (- x8 x9))) x6)) (- (square
+     (* (rlog x2) x6)) (rlog x1))) x4)))) (cube
+     (- (square (* (rlog x2) (- (square (* (-
+         (square (* (- x6 (sqrt x4)) (cos x5))) (sin
+         (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+         (exp (sqrt (rlog x1))))))) (- (square (*
+         (* (rlog x2) x6) (cos x5))) (sin (* (rlog
+         (rlog x2)) x3)))))) (sin (exp (+ (- x6 x5)
+         (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (sin (sqrt x5))) (- (- (square
+     (* (rlog x1) x6)) (* (sin (square (exp (-
+     x8 x9)))) x6)) x4)))) (cube (- (square (*
+     (rlog x2) (- (square (* (- (square (* (-
+     x6 (sqrt x4)) (cos x5))) (sin (exp (- x7
+     x5)))) (- (square (rlog x3)) (sin (exp (sqrt
+     (rlog x1))))))) (- (square (* (* (rlog x2)
+     x6) (cos x5))) (sin (rlog x2)))))) (sin (exp
+     (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (cos x5))) (cube (- (square (* (rlog
+     x2) (- (square (* (- (square (* (- x6 (sqrt
+     x4)) (cos x5))) (sin (exp (- x7 x5)))) (-
+     (square (rlog x3)) (sin (exp (sqrt (rlog
+     x1))))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (* (rlog (rlog x2)) x3))))))
+     (sin (exp (+ (- x6 x5) (/ (abs x5) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (- (rlog (rlog
+     x6)) (+ x3 x8)) (/ (sin (exp (sqrt (rlog
+     x1)))) (- (sqrt x4) x4))) (/ (exp (+ (- x6
+     x5) (/ (abs x5) x7))) (- (sqrt x4) x4))))
+     (cube (- (square (* (rlog x2) (- (square
+         (* (- (square (* (- x6 (sqrt x4)) (cos x5)))
+             (sin (exp (- x7 x5)))) (- (square (rlog x3))
+             (sin (exp (sqrt (rlog x1))))))) (- (square
+         (* (* (rlog x2) x6) (cos x5))) (sin (rlog
+         x2)))))) (sin (* (rlog x2) x6))))) (cube
+     (/ x4 (exp (exp (sin (sqrt x5))))))) (cos
+     (cube (square (exp (- x8 x9))))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (cos x5) (+
+     x3 x8)) (/ (rlog (- (square (* (rlog (rlog
+     x2)) (cos x5))) (sin (exp (rlog (rlog x2))))))
+     (- (- (square (* (square (exp (- x8 x9)))
+         (sin (sqrt x5)))) (- (- (rlog x2) (+ x3 x8))
+         (rlog x6))) x4)))) (cube (- (square (* (rlog
+     x2) (- (square (* (- (square (* (- x6 (sqrt
+     x4)) (cos x5))) (sin (exp (- x7 x5)))) (-
+     (square (rlog x3)) (sin (exp (sqrt (rlog
+     x1))))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (* (rlog (rlog x2)) x3))))))
+     (sin (exp (+ (- x6 x5) (/ (abs x5) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (sin x3) (- (- (square (* (square
+     (exp (- x5 x9))) x6)) (- (square (* (rlog
+     x2) x6)) (rlog x1))) x4)))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (- x6 (sqrt x4)) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (- (square (* (* (rlog
+         x2) x6) (cos x5))) (sin (* (rlog (rlog x2))
+         x3)))))) (sin (exp (rlog x6)))))) (cube (/
+     x4 (exp (exp (sin (sqrt x5))))))) (cos (cube
+     (square (exp (- x8 x9))))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (abs (+ x3 x8))) (- (- (square
+     (* (square x5) x6)) (cos (cube (sin (* (rlog
+     (rlog x2)) x3))))) (- (square (* (* (rlog
+     x2) x6) (cos x5))) (sin (exp (- x7 x5))))))))
+     (cube (- (square (* (rlog x2) (- (square
+         (* (- (square (* (- x6 (sqrt x4)) (cos x5)))
+             (sin (exp (- x7 x5)))) (- (square (rlog x3))
+             (sin (exp (sqrt (rlog x1))))))) (- (square
+         (* (* (rlog x2) x6) (cos x5))) (sin (* (rlog
+         (rlog x2)) x3)))))) (sin (exp (+ (- x6 x5)
+         (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9693251533742331
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (rlog (- (square (* (cos (cube
+     (square (exp (- x8 x9))))) (- (square (*
+     (rlog (rlog x2)) (cos x5))) (sin (exp (-
+     (- x8 x9) x5)))))) (sin (exp (exp (exp (sin
+     (sqrt x5)))))))) (- (- (cube (rlog x2)) (-
+     (square (* (rlog x2) x6)) (rlog x6))) x4))))
+     (cube (- (square (* (rlog x2) (- (square
+         (* (- (square (* (- x6 (sqrt x4)) (cos x5)))
+             (sin (exp (- x7 x5)))) (- (square (rlog x3))
+             (sin (exp (sqrt (rlog x1))))))) (- (square
+         (* (* (rlog x2) x6) (cos x5))) (sin (* (rlog
+         (rlog x2)) x3)))))) (sin (exp (+ (- x6 x5)
+         (/ (abs x5) x7))))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x4)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (-
+     x7 x5))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))))) (- (-
+     (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+     (- (* (- (square (* (- x6 (sqrt x4)) (cos
+         x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+         x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+         x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x4)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (-
+     x7 x5))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))))) (- (-
+     (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+     (- (* (- (square (* (- x6 (sqrt x4)) (cos
+         x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+         x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+         x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (+ (- x6 x5) (square (* (* (rlog
+     x6) x6) (cos x5)))) (- (- x6 x5) (* (- x7
+     x5) x6))))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (abs x5) x7))))))) (cube
+     (/ x4 (exp (exp (sin (sqrt x5))))))) (cos
+     (cube (square (exp (- x8 x9))))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (+ (- x6 x5) (square (* (* (rlog
+     x6) x6) (cos x5)))) (- (- x6 x5) (* (- x7
+     x5) x6))))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (abs x5) x7))))))) (cube
+     (/ x4 (exp (exp (sin (sqrt x5))))))) (cos
+     (cube (square (exp (- x8 x9))))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x5)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (sqrt
+     (rlog x1)))))) (- (square (* (* (rlog x2)
+     x6) (cos x5))) (sin (exp (- x7 x5)))))) (-
+     (- (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+         (- (* (- (square (* (- x6 (sqrt x4)) (cos
+             x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+             x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+             x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x4)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (-
+     x7 x5))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))))) (- (-
+     (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+     (- (* (- (square (* (- x6 (sqrt x4)) (cos
+         x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+         x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+         x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) x6)))))) (cube (/ x4 (exp (exp
+     (sin (sqrt x5))))))) (cos (cube (square (exp
+     (- x8 x9))))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x4)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (-
+     x7 x5))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))))) (- (-
+     (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+     (- (* (- (square (* (- x6 (sqrt x4)) (cos
+         x5))) (sin (exp (- (rlog x2) (+ x3 x8)))))
+         (- (square (rlog x3)) (sin (exp (sqrt (rlog
+             x1)))))) (rlog x6))) x4)))) (cube (- (square
+     (* (rlog x2) (- (square (* (- (square (*
+         (- x6 (sqrt x4)) (cos x5))) (sin (exp (-
+         x7 x5)))) (- (square (rlog x3)) (sin (exp
+         (sqrt (rlog x1))))))) (- (square (* (* (rlog
+         x2) x6) (cos x5))) (sin (* (rlog (rlog x2))
+         x3)))))) (sin (exp (+ (- x6 x5) (/ (exp (-
+     x7 x5)) x7))))))) (cube (/ x4 (exp (exp (sin
+     (sqrt x5))))))) (cos (cube (square (exp (-
+     x8 x9))))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x4)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (-
+     x7 x5))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))))) (- (-
+     (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (sqrt
+         x5))) (sin (exp (+ (/ (abs x5) x7) x8))))
+     (- (* (- (square (* (- x6 (sqrt x4)) (cos
+         x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+         x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+         x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 (square (* (- x6 (sqrt x4)) (cos
+         x5)))) (/ (exp (- x7 x5)) x7))))))) (cube
+     (/ x4 (exp (exp (sin (sqrt x5))))))) (cos
+     (cube (square (exp (- x8 x9))))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt (rlog x2))) (cos x5))) (sin
+     (exp (- x7 x5)))) (- (square (rlog x3)) (sin
+     (- x7 x5))))) (- (square (* (* (rlog x2)
+     x6) (cos x5))) (sin (exp (- x7 x5)))))) (-
+     (- (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+         (- (* (- (square (* (- x6 (sqrt x4)) (cos
+             x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+             x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+             x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (/ (square (* (- x6 (sqrt
+         x4)) (cos x5))) x7) x7))))))) (cube (/ x4
+     (exp (exp (sin (sqrt x5))))))) (cos (cube
+     (square (exp (- x8 x9))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9713701431492843
+Tree 0:
+ (- (* (+ (+ (square x2) (- (- (rlog x2) (+
+     x3 x8)) (/ (square (- (square (* (- (square
+     (* (- x6 (sqrt x4)) (cos x5))) (sin (exp
+     (- x7 x5)))) (- (square (rlog x3)) (sin (-
+     x7 x5))))) (- (square (* (* (rlog x2) x6)
+     (cos x5))) (sin (exp (- x7 x5)))))) (- (-
+     (- (square (* (- (square (* (* (rlog x2)
+         x6) (cos x5))) (sin (exp (- x7 x5)))) (-
+         (square (rlog x3)) (sin (exp (sqrt (rlog
+         x1))))))) (sin (exp (+ (/ (abs x5) x7) x8))))
+     (- (* (- (square (* (- x6 (sqrt x4)) (cos
+         x5))) (sin (exp (- x7 x5)))) (- (square (rlog
+         x3)) (sin (exp (sqrt (rlog x1)))))) (rlog
+         x6))) x4)))) (cube (- (square (* (rlog x2)
+     (- (square (* (- (square (* (- x6 (sqrt x4))
+         (cos x5))) (sin (exp (- x7 x5)))) (- (square
+         (rlog x3)) (sin (exp (sqrt (rlog x1)))))))
+         (- (square (* (* (rlog x2) x6) (cos x5)))
+             (sin (* (rlog (rlog x2)) x3)))))) (sin (exp
+     (+ (- x6 x5) (/ (exp (- x7 x5)) x7)))))))
+     (cube (/ x4 (exp (exp (sin (sqrt x5)))))))
+     (cos (cube (square (exp (- x8 x9))))))
+
+Performance of Best Individual on Testing Set: 
+Fitness: 0.9761904761904762
